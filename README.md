@@ -1,5 +1,5 @@
 # React Todo App with API 
-Implemented the API client in the `src/utils/fetchClient.ts`. 
+This React Todo App is designed to provide a user-friendly interface for managing tasks. The app is powered by an API client implemented in the './src/utils/fetchClient.ts' file, allowing seamless communication with the server using various methods.
 
 ## Error messages
 
@@ -14,6 +14,8 @@ Implemented filtering of todos by status `All` / `Active` / `Completed`.
 
 ## Adding a todo
 
+Implemented adding:
+
 - todo can be added with the entered title on the form submit with the help of POST request to the API;
 - if the title is empty the `Title can't be empty` notification is shown at the bottom;
 - the input is disabled until receiving a response from the API;
@@ -24,10 +26,12 @@ Implemented filtering of todos by status `All` / `Active` / `Completed`.
 
 ## Deleting todos
 
--the todo is removed on `TodoDeleteButton` click;
--the todo is covered with the loader while wating for the API response;
--in case of API error `Unable to delete a todo` is shown at the bottom;
--all the completed todos can be removed after the `Clear completed` button click.
+Implemented deleting:
+
+- the todo is removed on `TodoDeleteButton` click;
+- the todo is covered with the loader while wating for the API response;
+- in case of API error `Unable to delete a todo` is shown at the bottom;
+- all the completed todos can be removed after the `Clear completed` button click.
 
 ## Toggling a todo status
 
