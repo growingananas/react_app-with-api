@@ -3,7 +3,7 @@ This React Todo App is designed to provide a user-friendly interface for managin
 
 *Technologies: HTML, SCSS, TypeScript, React*
 
-If you want to see the page, please, click [here] (https://growingananas.github.io/react_app-with-api/) 
+If you want to see the page, please, click [here](https://growingananas.github.io/react_app-with-api/)
 
 
 ## Error messages
