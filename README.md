@@ -1,6 +1,10 @@
 # React Todo App with API 
 This React Todo App is designed to provide a user-friendly interface for managing tasks. The app is powered by an API client implemented in the './src/utils/fetchClient.ts' file, allowing seamless communication with the server using various methods.
 
+[Technologies:] HTML, SCSS, TypeScript, React
+If you want to see the page, please, click [here] (https://growingananas.github.io/react_todo-app-add-and-delete/) 
+
+
 ## Error messages
 
 In case of any error the notification is shown with an appropriate message at the bottom:
